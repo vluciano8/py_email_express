@@ -7,7 +7,7 @@
 
 ## Libraries  
 <br>
-    <li>Pyfiglet <a href="https://github.com/pwaller/pyfiglet">(github repo</a>)and 'smtplib'.
+    <li>Pyfiglet <a href="https://github.com/pwaller/pyfiglet">(github repo</a>), and 'smtplib'.
 <br>
   
 ## Mains
