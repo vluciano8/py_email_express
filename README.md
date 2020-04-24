@@ -1,17 +1,14 @@
-#Python Email Express 📧 🌎 🆓
+# Python Email Express 📧 🌎 🆓
 
   <br>
-  Simple Python 3 app created to send quickly emails from the CLI. 
+  Simple Python 3 app created to send quickly emails from the CLI.
+  Why? I was just practicing..
   It is meant to be used with frequent emails destinations or mixed with APIs as Send Grid
-
-  Tech Used:  
   <br>
-  <ul>
-    <li>Python 3,</li>
-    <li>Pyfiglet (<a href="https://github.com/pwaller/pyfiglet">github repo</a>),</li>
-    <li>smtplib,</li>
-  </ul>
-  <br>
+## Libraries  
+<br>
+  <li>Pyfiglet (<a href="https://github.com/pwaller/pyfiglet">github repo</a>)and 'smtplib'.
+<br>
   
 ## Mains
 <br>
