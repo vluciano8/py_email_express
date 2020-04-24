@@ -1,4 +1,4 @@
-# Email Express 📧 📨 🌎 🆓
+#Python Email Express 📧 🌎 🆓
 
   <br>
   Simple Python 3 app created to send quickly emails from the CLI. 
@@ -21,3 +21,13 @@
     <li>Add simple styles to the CLI</li>
   </ul>
 <br>
+
+## Disclaimer
+<br>
+*<ul>
+    <li>This project is completely educational and thought to use with gmail,</li>
+    <li>To work this script, "less secure apps" should be enabled in Gmail accounts and that it is not safe at all,</li>
+    <li>Gmail will warn you about this fact</li>
+</ul> 
+
+
